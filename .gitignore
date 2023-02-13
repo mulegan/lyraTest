@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+#忽略文件夹
+/.idea
+/.vs
+Binaries
+/Build
+Content
+/DerivedDataCache
+Intermediate
+/Saved
+*.png
+*.pdb
+*.uasset
+*.sln
